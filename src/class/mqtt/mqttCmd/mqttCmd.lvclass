@@ -145,6 +145,16 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1074266624</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
+	<Item Name="mqttCmdCalculateDatagram.vi" Type="VI" URL="../mqttCmdCalculateDatagram.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'C!!!!$Q!G1(!!(A!!%1^N=82U1WVE,GRW9WRB=X-!#GVR&gt;(2$&lt;71A;7Y!!!1!!!!G1(!!(A!!%1^N=82U1WVE,GRW9WRB=X-!#WVR&gt;(2$&lt;71A&lt;X6U!"&gt;!"1!12GFY:72):7&amp;E:8*#?82F-1!!$5!&amp;!!&gt;/&gt;7VF=GFD!":!1!!"`````Q!%#%2B&gt;'&amp;H=G&amp;N!!!81!5!%'.P&lt;GZ'&lt;'&amp;H1HFU:3"P&gt;81!!"R!1!!"`````Q!'$H:B=GFB9GRF3'6B:'6S!!!51%!!!@````]!"!&gt;Q98FM&lt;W&amp;E!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!E!#A!,%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"1!!-!#1!+!!M*:8*S&lt;X)A&lt;X6U!'Q!]!!1!!!!!1!"!!%!!A!$!!5!"Q!"!!A!!1!-!!%!!1!"!!U#!!%)!!#1!!!!!!!!!!!!!!!!!!!!D1!!!!A!!!!."Q!"#A!!!!!!!!))!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!.#Q!!!!%!$A!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+	</Item>
 	<Item Name="mqttCmdDatagram.vi" Type="VI" URL="../mqttCmdDatagram.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;9!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!71%!!!@````]!"1BE982B:X*B&lt;1!!-%"Q!"Y!!"%0&lt;8&amp;U&gt;%.N:#ZM&gt;G.M98.T!"6N=82U1H*P;W6S1W^N&lt;7&amp;O:#"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!,1!5!"7*Z&gt;'5R!$"!=!!?!!!2$WVR&gt;(2$&lt;71O&lt;(:D&lt;'&amp;T=Q!5&lt;8&amp;U&gt;%*S&lt;WNF=E.P&lt;7VB&lt;G1A;7Y!!'%!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!#1!+!Q!!?!!!#1!!!!!!!!!*!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!A!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
