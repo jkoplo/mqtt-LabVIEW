@@ -253,6 +253,15 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1352671744</Property>
 	</Item>
+	<Item Name="mqttMessage.ctl" Type="VI" URL="../mqttMessage.ctl">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"S!!!!"!!/1$$`````"62P='FD!""!-0````](5'&amp;Z&lt;'^B:!!01!9!#5VF=X.B:W6*2!!^!0%!!!!!!!!!!ARN=82U,GRW9WRB=X-0&lt;8&amp;U&gt;%VF=X.B:W5O9X2M!"B!5!!$!!!!!1!#"W6M:7VF&lt;H1!!1!$!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082143232</Property>
+	</Item>
 	<Item Name="mqttReadByteQuantity.vi" Type="VI" URL="../mqttReadByteQuantity.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C!!!!#Q!&amp;!!5!!"J!1!!"`````Q!!$8*Y6'6M:7&gt;S97UA;7Y!"!!!!"6!!Q!0=G6N97FO;7ZH4'6O:X2I!"F!!Q!3&lt;'6O:X2I1HFU:6&amp;V97ZU;82Z!!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!&amp;!!9!"R.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!5!"A!(#76S=G^S)'^V&gt;!"M!0!!%!!"!!)!!A!#!!)!!A!$!!)!"!!#!!)!#!!#!!)!!A!*!A!"#!!"#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!*!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!$1M!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -270,5 +279,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074266640</Property>
+	</Item>
+	<Item Name="TCP_NoDelay_Windows.vi" Type="VI" URL="../../../library/tcpip/TCP_NoDelay_Windows.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$&lt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!""!=!!&amp;#'.P&lt;GZ*2#!S!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"B!)2*51V"@4E^%25R"73!I&gt;(*V:3E!!!Z!=!!&amp;"G.P&lt;GZ*2!!!0!$Q!!A!!Q!%!!1!"1!'!!1!"Q!)!Q!!9!!!$11!!!!!!!!!!!!!$1=!!!I!!!!!!!!!#A!!!!A!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1074274832</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
