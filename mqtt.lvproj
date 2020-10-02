@@ -22,12 +22,28 @@
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="JDP Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
+				<Item Name="JSONtext.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JSONtext/JSONtext.lvlib"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="RT CPU Load.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/RT CPU Load.ctl"/>
 				<Item Name="RT Get CPU Loads.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/RT Get CPU Loads.vi"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="TCP Get Raw Net Object.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Get Raw Net Object.vi"/>
 			</Item>
+			<Item Name="Event.ctl" Type="VI" URL="../../State Machine Library/Event.ctl"/>
+			<Item Name="mqttCmdConnectSessionPresentRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/mqttCmdConnectSessionPresentRead.vi"/>
+			<Item Name="mqttCmdConnectStatusRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/mqttCmdConnectStatusRead.vi"/>
+			<Item Name="mqttCmdMessageIDRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdMessageIDRead.vi"/>
+			<Item Name="mqttCmdQOSread.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdQOSread.vi"/>
+			<Item Name="mqttCmdSubscribeSubInfoRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/mqttCmdSubscribeSubInfoRead.vi"/>
+			<Item Name="mqttCmdSubscribeSubInfoWrite.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/mqttCmdSubscribeSubInfoWrite.vi"/>
+			<Item Name="mqttCmdSubscribeSuccessWrite.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribeSuccessWrite.vi"/>
+			<Item Name="mqttCmdSuccessRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSuccessRead.vi"/>
+			<Item Name="mqttReadByteQuantity.vi" Type="VI" URL="../src/class/mqtt/mqttReadByteQuantity.vi"/>
+			<Item Name="mqttTCPIPReadRemainingByteQuantity.vi" Type="VI" URL="../src/class/mqtt/mqttTCPIPReadRemainingByteQuantity.vi"/>
 			<Item Name="wsock32.dll" Type="Document" URL="wsock32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -133,12 +149,27 @@ AddOutputFilter chunkFilter
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
+				<Item Name="JDP Utility.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JDP Science Common Utilities/JDP Utility.lvlib"/>
+				<Item Name="JSONtext.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JSONtext/JSONtext.lvlib"/>
+				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="ni_emb.dll" Type="Document" URL="/&lt;vilib&gt;/ni_emb.dll"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_Real-Time Target Support.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI_Real-Time Target Support.lvlib"/>
 				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="TCP Get Raw Net Object.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Get Raw Net Object.vi"/>
 			</Item>
+			<Item Name="Event.ctl" Type="VI" URL="../../State Machine Library/Event.ctl"/>
+			<Item Name="mqttCmdConnectSessionPresentRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/mqttCmdConnectSessionPresentRead.vi"/>
+			<Item Name="mqttCmdConnectStatusRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/mqttCmdConnectStatusRead.vi"/>
+			<Item Name="mqttCmdMessageIDRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdMessageIDRead.vi"/>
+			<Item Name="mqttCmdQOSread.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdQOSread.vi"/>
+			<Item Name="mqttCmdSubscribeSubInfoRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/mqttCmdSubscribeSubInfoRead.vi"/>
+			<Item Name="mqttCmdSubscribeSubInfoWrite.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/mqttCmdSubscribeSubInfoWrite.vi"/>
+			<Item Name="mqttCmdSubscribeSuccessWrite.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribeSuccessWrite.vi"/>
+			<Item Name="mqttCmdSuccessRead.vi" Type="VI" URL="../src/class/mqtt/mqttCmd/mqttCmdSuccessRead.vi"/>
+			<Item Name="mqttReadByteQuantity.vi" Type="VI" URL="../src/class/mqtt/mqttReadByteQuantity.vi"/>
+			<Item Name="mqttTCPIPReadRemainingByteQuantity.vi" Type="VI" URL="../src/class/mqtt/mqttTCPIPReadRemainingByteQuantity.vi"/>
 			<Item Name="wsock32.dll" Type="Document" URL="wsock32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
