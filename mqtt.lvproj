@@ -11,17 +11,17 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="MQTT Messages" Type="Folder">
-			<Item Name="mqttCmd.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmd.lvclass"/>
-			<Item Name="mqttCmdConnect.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/mqttCmdConnect.lvclass"/>
-			<Item Name="mqttCmdDisconnect.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdDisconnect/mqttCmdDisconnect.lvclass"/>
-			<Item Name="mqttCmdPing.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPing/mqttCmdPing.lvclass"/>
-			<Item Name="mqttCmdPingResponse.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPingResponse/mqttCmdPingResponse.lvclass"/>
-			<Item Name="mqttCmdPublish.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublish/mqttCmdPublish.lvclass"/>
-			<Item Name="mqttCmdPublishAck.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishAck/mqttCmdPublishAck.lvclass"/>
-			<Item Name="mqttCmdPublishComplete.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishComplete/mqttCmdPublishComplete.lvclass"/>
-			<Item Name="mqttCmdPublishReceived.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishReceived/mqttCmdPublishReceived.lvclass"/>
-			<Item Name="mqttCmdPublishRelease.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttPublishRelease/mqttCmdPublishRelease.lvclass"/>
-			<Item Name="mqttCmdSubscribe.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/mqttCmdSubscribe.lvclass"/>
+			<Item Name="BaseMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/BaseMqttMsg.lvclass"/>
+			<Item Name="ConnectMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdConnect/ConnectMqttMsg.lvclass"/>
+			<Item Name="DisconnectMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdDisconnect/DisconnectMqttMsg.lvclass"/>
+			<Item Name="PingMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPing/PingMqttMsg.lvclass"/>
+			<Item Name="PingResponseMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPingResponse/PingResponseMqttMsg.lvclass"/>
+			<Item Name="PublishAckMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishAck/PublishAckMqttMsg.lvclass"/>
+			<Item Name="PublishCompleteMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishComplete/PublishCompleteMqttMsg.lvclass"/>
+			<Item Name="PublishMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublish/PublishMqttMsg.lvclass"/>
+			<Item Name="PublishReceivedMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdPublishReceived/PublishReceivedMqttMsg.lvclass"/>
+			<Item Name="PublishReleaseMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttPublishRelease/PublishReleaseMqttMsg.lvclass"/>
+			<Item Name="SubscribeMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/SubscribeMqttMsg.lvclass"/>
 		</Item>
 		<Item Name="mqttTXqueue" Type="Folder">
 			<Item Name="mqttRXsubscriptionEvent.vi" Type="VI" URL="../src/class/mqtt/mqttTXqueue/mqttRXsubscriptionEvent.vi"/>
