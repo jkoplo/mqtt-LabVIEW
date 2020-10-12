@@ -1,3 +1,6 @@
 
 *.lvlps
 *.aliases
+*.crt
+*.csr
+*.key
