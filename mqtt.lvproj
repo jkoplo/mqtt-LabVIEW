@@ -23,11 +23,6 @@
 			<Item Name="PublishReleaseMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttPublishRelease/PublishReleaseMqttMsg.lvclass"/>
 			<Item Name="SubscribeMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/SubscribeMqttMsg.lvclass"/>
 		</Item>
-		<Item Name="mqttTXqueue" Type="Folder">
-			<Item Name="mqttRXsubscriptionEvent.vi" Type="VI" URL="../src/class/mqtt/mqttTXqueue/mqttRXsubscriptionEvent.vi"/>
-			<Item Name="mqttRXsubscriptionEventData.ctl" Type="VI" URL="../src/class/mqtt/mqttTXqueue/mqttRXsubscriptionEventData.ctl"/>
-			<Item Name="mqttRXsubscriptionEventFunction.ctl" Type="VI" URL="../src/class/mqtt/mqttTXqueue/mqttRXsubscriptionEventFunction.ctl"/>
-		</Item>
 		<Item Name="mqtt.lvclass" Type="LVClass" URL="../src/class/mqtt/mqtt.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
