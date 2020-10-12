@@ -193,11 +193,11 @@
 		<Item Name="mqttTCPIPserver.vi" Type="VI" URL="../mqttTCPIPserver.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'4!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#B!=!!?!!!/$'VR&gt;(1O&lt;(:D&lt;'&amp;T=Q!!$GVR&gt;(1O&lt;(:D&lt;'&amp;T=S!S!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]&amp;6'^Q;7-!%%!Q`````Q&gt;198FM&lt;W&amp;E!!^!"A!*476T=W&amp;H:5F%!$!!]1!!!!!!!!!"$WVR&gt;(2.:8.T97&gt;F,G.U&lt;!!91&amp;!!!Q!(!!A!#1&gt;F&lt;'6N:7ZU!"Z!=!!3!!%!#B..:8.T97&gt;F5G6D:7FW:6&amp;V:86F!#:!=!!?!!!/$'VR&gt;(1O&lt;(:D&lt;'&amp;T=Q!!$'VR&gt;(1O&lt;(:D&lt;'&amp;T=Q!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!,!!Q$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!#!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!$1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
 		</Item>
 	</Item>
 	<Item Name="telegramBuilding" Type="Folder">

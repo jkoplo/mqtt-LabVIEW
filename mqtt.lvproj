@@ -25,6 +25,7 @@
 		</Item>
 		<Item Name="mqtt.lvclass" Type="LVClass" URL="../src/class/mqtt/mqtt.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
+		<Item Name="TOOL Find Rentrant.vi" Type="VI" URL="../../TOOL Find Rentrant.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
