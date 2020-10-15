@@ -23,7 +23,7 @@
 	<Item Name="PublishMqttMsg.ctl" Type="Class Private Data" URL="PublishMqttMsg.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="mqttCmdPublishCreate.vi" Type="VI" URL="../mqttCmdPublishCreate.vi">
+	<Item Name="Create.vi" Type="VI" URL="../Create.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(=!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!9&amp;F"V9GRJ=WB.=82U48.H,GRW9WRB=X-!!"*N=82U1WVE5(6C&lt;'FT;#"P&gt;81!!'I!]1!!!!!!!!!#%U*B=W6.=82U48.H,GRW9WRB=X--57^T4'6W:7QO9X2M!%&amp;!&amp;1!%$%&amp;U)'VP=X1A&lt;WZD:1V"&gt;#"M:7&amp;T&gt;#"P&lt;G.F$%6Y97.U&lt;(EA&lt;WZD:1B3:8.F=H:F:!!!!X&amp;P=Q!/1#%*:(6Q&lt;'FD982F!!R!)1:S:82B;7Y!!%E!]&gt;OO0&amp;M!!!!#%UV26&amp;1A1WRJ:7ZU,GRW9WRB=X-31W^O&lt;G6D&gt;'FP&lt;EVF&gt;'%O9X2M!"J!5!!$!!9!"Q!)#'.P&lt;GZ.:82B!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!Z!-0````]&amp;&gt;G&amp;M&gt;75!$E!Q`````Q6U&lt;X"J9Q"5!0!!$!!$!!1!"!!&amp;!!1!"!!*!!1!#A!,!!Q!"!)!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!A!!!!!!!!!#!!!!AA!!!))!!!!!!!!!!!"!!U!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -31,15 +31,6 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
-	</Item>
-	<Item Name="mqttCmdPublishReleaseCommand.vi" Type="VI" URL="../mqttCmdPublishReleaseCommand.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$E!!!!#!!%!!!!$U!'!!FN:8.T97&gt;F351!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!!A!$!!14:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71&amp;!!!Q!#!!-!"!FF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!5!!!!!!!!!"A-!!1A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!U,!!!!!1!(!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074278928</Property>
 	</Item>
 	<Item Name="ToDatagram.vi" Type="VI" URL="../ToDatagram.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;:!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!71%!!!@````]!"1B%982B:X*B&lt;1!!.E"Q!"Y!!"A75(6C&lt;'FT;%VR&gt;(2.=W=O&lt;(:D&lt;'&amp;T=Q!!%F"V9GRJ=WB.=82U48.H)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!01!9!#7VF=X.B:W6*2!!U1(!!(A!!'":1&gt;7*M;8.I48&amp;U&gt;%VT:SZM&gt;G.M98.T!!!25(6C&lt;'FT;%VR&gt;(2.=W=A;7Y!6!$Q!!Q!!Q!%!!9!"Q!%!!1!"!!%!!A!"!!*!!I$!!"Y!!!.#!!!!!!!!!E!!!#*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#!!!!*!!!!!!!1!,!!!!!!</Property>
