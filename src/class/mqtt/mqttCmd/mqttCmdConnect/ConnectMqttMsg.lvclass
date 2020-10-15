@@ -27,15 +27,6 @@
 	<Item Name="ConnectMqttMsg.ctl" Type="Class Private Data" URL="ConnectMqttMsg.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="mqttCmdAcknowledge.vi" Type="VI" URL="../mqttCmdAcknowledge.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!.,!!!!%1!S1(!!(A!!'":$&lt;WZO:7.U48&amp;U&gt;%VT:SZM&gt;G.M98.T!!!/&lt;8&amp;U&gt;%.P&lt;GZF9X1A;7Y!!!1!!!!S1(!!(A!!'":$&lt;WZO:7.U48&amp;U&gt;%VT:SZM&gt;G.M98.T!!!0&lt;8&amp;U&gt;%.P&lt;GZF9X1A&lt;X6U!!R!)1:S:82B;7Y!!'Y!]1!!!!!!!!!#%UV26&amp;1A1WRJ:7ZU,GRW9WRB=X-1&lt;8&amp;U&gt;&amp;&amp;05WRF&gt;G6M,G.U&lt;!""1"5!"!R"&gt;#"N&lt;X.U)'^O9W5.181A&lt;'6B=X1A&lt;WZD:1R&amp;?'&amp;D&gt;'RZ)'^O9W5)5G6T:8*W:71!!!.R&lt;X-!$E!B#72V='RJ9W&amp;U:1$0!0%!!!!!!!!!!B..5625)%.M;76O&gt;#ZM&gt;G.M98.T%WVR&gt;(2.:8.T97&gt;F6(FQ:3ZD&gt;'Q!HU!8!"!)5G6T:8*W:71(1U^/4E6$6!&gt;$4UZ/15.,"V"61ER*5UA'5&amp;6#15.,"F"61F*&amp;1Q:165*325Q(5&amp;6#1U^.5!F465*41V**1E5'5V6#15.,#V6/5V6#5U.335*&amp;#&amp;6/5V6#15.,"V"*4E&gt;326%)5%F/2V*&amp;5V!+2%F41U^/4E6$6!F3:8.F=H:F:$)!#(*F=X"P&lt;H.F!!"5!0%!!!!!!!!!!B..5625)%.M;76O&gt;#ZM&gt;G.M98.T'WVR&gt;(2';8BF:%BF972F=F*F=X"P&lt;H.F,G.U&lt;!!=1&amp;!!"!!$!!1!"1!'#':J?'6E3'2S!!!&amp;!!5!!"2!1!!"`````Q!)"X"B?7RP971!4A$R!!!!!!!!!!)446&amp;56#"$&lt;'FF&lt;H1O&lt;(:D&lt;'&amp;T=R6N=82U5FBE982B1WRV=X2F=CZD&gt;'Q!(%"1!!)!"Q!*$'ZP&gt;'FG;7.B&gt;'FP&lt;A!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!)%"1!!-!#Q!-!!U4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!71&amp;!!!Q!,!!Q!$1FF=H*P=C"P&gt;81!&lt;!$Q!"!!!!!"!!%!!1!#!!%!!1!"!!I!!1!"!!Y!!1!"!!%!$Q-!!1A!!*)!!!!!!!!!!!!!!!!!!!#.!!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!U,!!!!!1!1!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">128</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
-	</Item>
 	<Item Name="mqttCmdBuildPayloadInternal.vi" Type="VI" URL="../mqttCmdBuildPayloadInternal.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;6!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!51%!!!@````]!"1&gt;Q98FM&lt;W&amp;E!$:!=!!?!!!9&amp;E.P&lt;GZF9X2.=82U48.H,GRW9WRB=X-!!"*N=82U1WVE1W^O&lt;G6D&gt;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!.%"Q!"Y!!"A71W^O&lt;G6D&gt;%VR&gt;(2.=W=O&lt;(:D&lt;'&amp;T=Q!!%7VR&gt;(2$&lt;72$&lt;WZO:7.U)'FO!'%!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!A!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!1!!!.!!!!$!!!!!!!!!!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>

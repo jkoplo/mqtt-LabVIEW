@@ -27,15 +27,6 @@
 	<Item Name="PingMqttMsg.ctl" Type="Class Private Data" URL="PingMqttMsg.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="mqttCmdAcknowledge.vi" Type="VI" URL="../mqttCmdAcknowledge.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-X!!!!%1!I1(!!(A!!&amp;2.1;7ZH48&amp;U&gt;%VT:SZM&gt;G.M98.T!!B@&lt;8&amp;U&gt;#"J&lt;A!!"!!!!#B!=!!?!!!6%V"J&lt;G&gt;.=82U48.H,GRW9WRB=X-!#6^N=82U)'^V&gt;!!-1#%'=G6U97FO!!"O!0%!!!!!!!!!!B..5625)%.M;76O&gt;#ZM&gt;G.M98.T%'VR&gt;(224V.M:8:F&lt;#ZD&gt;'Q!15!6!!1-181A&lt;7^T&gt;#"P&lt;G.F$5&amp;U)'RF98.U)'^O9W5-28BB9X2M?3"P&lt;G.F#&amp;*F=W6S&gt;G6E!!!$=7^T!!Z!)1FE&gt;8"M;7.B&gt;'5!TQ$R!!!!!!!!!!)446&amp;56#"$&lt;'FF&lt;H1O&lt;(:D&lt;'&amp;T=R.N=82U476T=W&amp;H:62Z='5O9X2M!*^!&amp;Q!1#&amp;*F=W6S&gt;G6E"U.04EZ&amp;1V1(1U^/4E&amp;$3Q&gt;165*-36.)"F"61E&amp;$3Q:165*325-'5&amp;6#5E6-"V"61E.046!*5V6#5U.335*&amp;"F.61E&amp;$3QN64F.61F.$5EF#21B64F.61E&amp;$3Q&gt;135Z(5E62#&amp;"*4E&gt;326.1#E2*5U.04EZ&amp;1V1*5G6T:8*W:71S!!BS:8.Q&lt;WZT:1!!6!$R!!!!!!!!!!)446&amp;56#"$&lt;'FF&lt;H1O&lt;(:D&lt;'&amp;T=RNN=82U2GFY:72):7&amp;E:8*3:8.Q&lt;WZT:3ZD&gt;'Q!(%"1!!1!!Q!%!!5!"ABG;8BF:%BE=A!!"1!&amp;!!!51%!!!@````]!#!&gt;Q98FM&lt;W&amp;E!%Y!]1!!!!!!!!!#%UV26&amp;1A1WRJ:7ZU,GRW9WRB=X-6&lt;8&amp;U&gt;&amp;*9:'&amp;U95.M&gt;8.U:8)O9X2M!"R!5!!#!!=!#1RO&lt;X2J:GFD982J&lt;WY!!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!M!$!!.%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"1!!-!#Q!-!!U*:8*S&lt;X)A&lt;X6U!'Q!]!!1!!!!!1!"!!%!!A!"!!%!!1!+!!%!!1!/!!%!!1!"!!]$!!%)!!#3!!!!!!!!!!!!!!!!!!!!D1!!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!!!!!!.#Q!!!!%!%!!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1073741954</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074528784</Property>
-	</Item>
 	<Item Name="mqttCmdCreate.vi" Type="VI" URL="../mqttCmdCreate.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%8!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%V"J&lt;G&gt;.=82U48.H,GRW9WRB=X-!$WVR&gt;(2$&lt;721;7ZH)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!#R!=!!?!!!6%UV26&amp;1A1WRJ:7ZU,GRW9WRB=X-!$7VR&gt;(1A;7ZT&gt;'&amp;O9W5!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!(!!1#!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!#!!!!!!!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
