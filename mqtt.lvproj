@@ -24,7 +24,6 @@
 			<Item Name="SubscribeMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/SubscribeMqttMsg.lvclass"/>
 		</Item>
 		<Item Name="MQTT Client.lvclass" Type="LVClass" URL="../src/class/mqtt/MQTT Client.lvclass"/>
-		<Item Name="MQTT Routed Client.lvclass" Type="LVClass" URL="../src/class/MQTT Routed Client/MQTT Routed Client.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 		<Item Name="TOOL Find Rentrant.vi" Type="VI" URL="../../TOOL Find Rentrant.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
