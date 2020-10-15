@@ -23,7 +23,7 @@
 			<Item Name="PublishReleaseMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttPublishRelease/PublishReleaseMqttMsg.lvclass"/>
 			<Item Name="SubscribeMqttMsg.lvclass" Type="LVClass" URL="../src/class/mqtt/mqttCmd/mqttCmdSubscribe/SubscribeMqttMsg.lvclass"/>
 		</Item>
-		<Item Name="mqtt.lvclass" Type="LVClass" URL="../src/class/mqtt/mqtt.lvclass"/>
+		<Item Name="MQTT Client.lvclass" Type="LVClass" URL="../src/class/mqtt/MQTT Client.lvclass"/>
 		<Item Name="test.vi" Type="VI" URL="../src/test.vi"/>
 		<Item Name="TOOL Find Rentrant.vi" Type="VI" URL="../../TOOL Find Rentrant.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
